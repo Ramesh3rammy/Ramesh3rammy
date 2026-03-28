@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Pagidi Ramesh 👋</h1>
 
 <p align="center">
-  🚀 2.4 years of experience in Data & BI <br>
-  🔧 Power BI | SQL | Python | Azure Data Engineering | Pyspark <br>
+  🚀 3+ years of experience in Data & BI <br>
+  🔧 Power BI | SQL | Fabric | Azure Data Engineering | Pyspark | Python <br>
   🎯 Passionate about delivering impactful dashboards and analytics solutions
 </p>
 
@@ -39,8 +39,8 @@
 
 ### 📈 Experience Highlights
 
-- 🔹 **2.4 Years** of hands-on experience as a Power BI Developer.
-- 🔹 Independently completed **2 full-cycle BI projects** end to end.
+- 🔹 **3 Years** of hands-on experience as a Power BI Developer.
+- 🔹 Independently completed **6 full-cycle BI projects** end to end.
 - 🔹 Skilled in developing DAX-heavy, dynamic dashboards using Power BI.
 - 🔹 Strong with Python data stack: `Pandas`, `Seaborn`, `Matplotlib`, `NumPy`.
 - 🔹 Worked with Azure services: ADF, Databricks, Azure SQL, Key Vault.
