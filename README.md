@@ -40,7 +40,8 @@
 ### 📈 Experience Highlights
 
 - 🔹 **3 Years** of hands-on experience as a Power BI Developer.
-- 🔹 Independently completed **6 full-cycle BI projects** end to end.
+- 🔹 Independently completed **8+ full-cycle BI projects** end to end.
+- 🔹 Worked with Maintenance (**Asset maintenance software(CARL)**), **Suppliy Chain** industry.
 - 🔹 Skilled in developing DAX-heavy, dynamic dashboards using Power BI.
 - 🔹 Strong with Python data stack: `Pandas`, `Seaborn`, `Matplotlib`, `NumPy`.
 - 🔹 Worked with Azure services: ADF, Databricks, Azure SQL, Key Vault.
