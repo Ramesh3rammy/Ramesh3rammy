@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ramesh3rammy/Ramesh3rammy/main/rams%20photo.jpg" alt="Pagidi Ramesh" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Ramesh3rammy/Ramesh3rammy/main/Ramesh.jpg" alt="Pagidi Ramesh" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Pagidi Ramesh 👋</h1>
