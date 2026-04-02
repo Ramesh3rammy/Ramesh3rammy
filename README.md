@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Ramesh3rammy/Ramesh3rammy/main/Ramesh.jpg" alt="Pagidi Ramesh" width="200" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Pagidi Ramesh 👋</h1>
+<h1 align="center">Hi, I'm Ramesh Pagidi 👋</h1>
 
 <p align="center">
   🚀 3+ years of experience in Data & BI <br>
